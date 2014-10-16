@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asv:home|Door43 (asv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asv|d43-asv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asv/archive/master.zip|d43-asv.zip]]
+
+**Recent Changes**
+{{changes>ns = asv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asv|Ethnologue data]]
+
